@@ -1,0 +1,202 @@
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\sinema-bilet-sistemi1.exe.config
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\sinema-bilet-sistemi1.exe
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\sinema-bilet-sistemi1.pdb
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.csproj.AssemblyReference.cache
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Properties.Resources.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.csproj.GenerateResource.cache
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.exe
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.pdb
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\EntityFramework.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Google.Protobuf.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySql.Data.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySqlConnector.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Buffers.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Memory.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\ZstdSharp.dll
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\EntityFramework.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Google.Protobuf.pdb
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Google.Protobuf.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySql.Data.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\MySqlConnector.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Buffers.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Memory.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form2.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema-b.1399EC20.Up2Date
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form3.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form4.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form5.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form6.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form7.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form8.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form9.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form10.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form11.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form12.resources
+C:\Users\eymen\Desktop\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.giris.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\sinema-bilet-sistemi1.exe.config
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\sinema-bilet-sistemi1.exe
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\sinema-bilet-sistemi1.pdb
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\EntityFramework.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Google.Protobuf.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySql.Data.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFrameworkCore.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySqlConnector.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Buffers.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Memory.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\ZstdSharp.dll
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\EntityFramework.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Google.Protobuf.pdb
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Google.Protobuf.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySql.Data.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySql.Data.EntityFrameworkCore.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\MySqlConnector.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Buffers.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Memory.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.csproj.AssemblyReference.cache
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form1.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.giris.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form10.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form11.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form12.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form2.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form3.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form4.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form5.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form6.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form7.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form8.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form9.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Properties.Resources.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.csproj.GenerateResource.cache
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema-b.1399EC20.Up2Date
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.exe
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema-bilet-sistemi1.pdb
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form13.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form14.resources
+C:\Users\eymen\Desktop\Görsel Programlama Proje\sinema-bilet-sistemi1\obj\Debug\sinema_bilet_sistemi1.Form15.resources

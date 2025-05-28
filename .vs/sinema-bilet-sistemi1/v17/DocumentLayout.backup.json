@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|c:\\users\\eymen\\desktop\\g\u00F6rsel programlama proje\\sinema-bilet-sistemi1\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|solutionrelative:form12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BF9ABDA-6CA5-49C6-B059-C03424E937A2}|sinema-bilet-sistemi1.csproj|solutionrelative:giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\giris.cs",
+              "RelativeDocumentMoniker": "giris.cs",
+              "ToolTip": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T14:02:06.217Z",
+              "IsPinned": true,
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\giris.cs",
+              "RelativeDocumentMoniker": "giris.cs",
+              "ToolTip": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\giris.cs",
+              "RelativeToolTip": "giris.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAewDQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:38:03.329Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form12.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form12.cs",
+              "RelativeDocumentMoniker": "Form12.cs",
+              "ToolTip": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form12.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form12.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:55:40.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:54:42.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAIAwwMUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:47:04.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\eymen\\Desktop\\G\u00F6rsel Programlama Proje\\sinema-bilet-sistemi1\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T23:47:25.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
